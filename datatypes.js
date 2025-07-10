@@ -62,3 +62,11 @@ fuction greet(name) {
 }//function that takes a name  as aparameeter and returns a greeting messaage
 greet("Tonny"); // calling the function with "Tonny" as an argument
 greet("kiprotich"); // calling the function with "kiprotich" as an argument
+
+
+
+//Explore operators in js
+//The truth table
+//++var var++ ,
+
+//control flow statements - conditions and loops 
