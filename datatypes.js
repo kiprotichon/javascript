@@ -54,9 +54,8 @@ let userProfile = {
 
 }; // object with properties and nested objects/arrays
 
-
 //Function  -  ablock of code that can be called and executed. Funcrions accn take parameter and return values.They are used to enscapsullate reusable logic and perform specific tasks.
-fuction greet(name) {
+function greet(name) {
     return `Hello, ${name}!`;
 
 }//function that takes a name  as aparameeter and returns a greeting messaage
